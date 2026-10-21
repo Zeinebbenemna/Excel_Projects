@@ -1,6 +1,6 @@
-# 🌍 Access to Drinking Water (2000–2020) – Excel Analysis
+# 🌍 Access to Drinking Water (2000-2020) - Excel Analysis
 
-Analysis of global access to safe drinking water using WHO/UNICEF Joint Monitoring Programme (JMP) data, to measure progress toward **UN SDG 6 – Clean Water & Sanitation**.
+Analysis of global access to safe drinking water using WHO/UNICEF Joint Monitoring Programme (JMP) data, to measure progress toward **UN SDG 6 - Clean Water & Sanitation**.
 
 Built during the **ALX Africa Data Analytics program**, in two parts.
 
@@ -12,7 +12,7 @@ Find out who has access to basic drinking water, where access is improving or de
 
 ---
 
-## 📘 Part 1 – Understanding the data (2020 snapshot)
+## 📘 Part 1 - Understanding the data (2020 snapshot)
 
 **File:** `Part1_Water_Access_2020_Snapshot.xlsx`, covering 213 countries.
 
@@ -29,7 +29,7 @@ Find out who has access to basic drinking water, where access is improving or de
 
 ---
 
-## 📈 Part 2 – Transforming the data (2000–2020)
+## 📈 Part 2 - Transforming the data (2000-2020)
 
 **File:** `Part2_Water_Access_2000-2020.xlsx`, covering 231 countries with two records each.
 
@@ -58,7 +58,7 @@ Excel · Google Sheets · data cleaning · IF / IFERROR / COUNTIFS / AVERAGEIF /
 - `Part1_Water_Access_2020_Snapshot.xlsx`: Part 1 analysis
 - `Part2_Water_Access_2000-2020.xlsx`: Part 2 analysis
 - `data/Estimates_of_the_use_of_water_2020.csv`: raw 2020 dataset (Part 1)
-- `data/Estimates_of_the_use_of_water_2000-2020.csv`: raw 2000–2020 dataset (Part 2)
+- `data/Estimates_of_the_use_of_water_2000-2020.csv`: raw 2000-2020 dataset (Part 2)
 - `data/Regions.csv`: country → region classification
 
 Each workbook has an **About** sheet explaining the sheets, the cleaning steps and every column.
