@@ -18,7 +18,7 @@ Find out who has access to basic drinking water, where access is improving or de
 
 - Cleaned the dataset: converted numbers stored as text, replaced "NAN" text with empty cells, fixed broken formulas.
 - Added calculated columns: population in millions, urban/rural shares and populations.
-- Checked data consistency with a validation column, since the four service levels should add up to ~100%. It flagged 2 inconsistent countries, which were corrected or documented.
+- Checked data consistency with a validation column, since the four service levels should add up to ~100%. It flagged 2 inconsistent countries, which were documented and corrected  .
 - Compared the dataset with the world population estimate (it covers 99.6% of the world's population).
 - Produced descriptive statistics for all 12 access indicators (national, rural, urban).
 - Compared access by income group.
@@ -57,9 +57,9 @@ Excel · Google Sheets · data cleaning · IF / IFERROR / COUNTIFS / AVERAGEIF /
 
 - `Part1_Water_Access_2020_Snapshot.xlsx`: Part 1 analysis
 - `Part2_Water_Access_2000-2020.xlsx`: Part 2 analysis
-- `data/Estimates_of_the_use_of_water_2020.csv`: raw 2020 dataset (Part 1)
-- `data/Estimates_of_the_use_of_water_2000-2020.csv`: raw 2000-2020 dataset (Part 2)
-- `data/Regions.csv`: country → region classification
+- `Raw_Data/Estimates_of_the_use_of_water_2020.csv`: raw 2020 dataset (Part 1)
+- `Raw_Data/Estimates_of_the_use_of_water_2000-2020.csv`: raw 2000-2020 dataset (Part 2)
+- `Raw_Data/Regions.csv`: country → region classification
 
 Each workbook has an **About** sheet explaining the sheets, the cleaning steps and every column.
 
