@@ -23,7 +23,7 @@ Find out who has access to basic drinking water, where access is improving or de
 - Produced descriptive statistics for all 12 access indicators (national, rural, urban).
 - Compared access by income group.
 
-**Key findings**
+**I-Key findings**
 - Low-income countries average **63% basic access**, vs **99.6%** in high-income countries.
 - In low-income countries, urban areas have **29.5 points more access** than rural areas, compared with a gap of only 1.2 points in high-income countries.
 
@@ -39,7 +39,7 @@ Find out who has access to basic drinking water, where access is improving or de
 - Calculated the rural vs urban ARC difference and its distribution.
 - Added regions with a lookup and compared progress by region (summary table + bubble chart).
 
-**Key findings**
+**I-Key findings**
 - On average, access improves by **0.28 points per year nationally**, 0.48 in rural areas and 0.15 in urban areas.
 - Rural access improved faster than urban access in **112 countries** (vs 23 the other way).
 - **26 countries saw urban access decline.**
@@ -47,13 +47,13 @@ Find out who has access to basic drinking water, where access is improving or de
 
 ---
 
-## 🛠️ Tools & techniques
+## II-Tools & techniques
 
 Excel · Google Sheets · data cleaning · IF / IFERROR / COUNTIFS / AVERAGEIF / SUMPRODUCT · INDEX/MATCH lookup · descriptive statistics · histograms · bubble chart
 
 ---
 
-## 📁 Files
+## III-Files
 
 - `Part1_Water_Access_2020_Snapshot.xlsx`: Part 1 analysis
 - `Part2_Water_Access_2000-2020.xlsx`: Part 2 analysis
@@ -65,6 +65,6 @@ Each workbook has an **About** sheet explaining the sheets, the cleaning steps a
 
 ---
 
-## 🙏 Credits
+##  Credits
 
 Case study: **ALX Africa Data Analytics program**. Data: WHO/UNICEF Joint Monitoring Programme (JMP).
